@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "Genesis Cube or Squid Cube? A Dual-Use Framework for Artificial Collective Organisms"
+type: article
+version: "1.0"
+date-released: 2026-09-20
+authors:
+  - family-names: Basu
+    given-names: John Kalyan
+    orcid: "https://orcid.org/0009-0009-5561-4441"
+doi: 10.5281/zenodo.22854142
+url: "https://doi.org/10.5281/zenodo.22854142"
+license: CC-BY-4.0
+abstract: >-
+  A dual-use research framework for artificial collective organisms,
+  contrasting the THOR mutual-preservation archetype with the KALMAR
+  expendable-swarm archetype and defining the Smallest Sufficient
+  Autonomous Cube threshold.
+keywords:
+  - artificial collective organisms
+  - multi-agent systems
+  - artificial life
+  - LLM agents
+  - AI governance
+  - dual-use AI
+  - SYNTAVA
+  - THOR
+  - KALMAR
+  - SSAC

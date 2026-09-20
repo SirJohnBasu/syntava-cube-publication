@@ -1,0 +1,42 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "ScholarlyArticle",
+  "name": "The Basu Digital Bacterium Hypothesis: A Falsifiable Framework for Information-Borne Replicators in LLM Systems",
+  "version": "1.0",
+  "datePublished": "2026-09-18",
+  "identifier": "https://doi.org/10.5281/zenodo.22830845",
+  "url": "https://doi.org/10.5281/zenodo.22830845",
+  "relatedLink": [
+    "https://huggingface.co/datasets/SirJohnBasu/basu-digital-bacterium-hypothesis"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": {
+    "@type": "Person",
+    "givenName": "John Kalyan",
+    "familyName": "Basu",
+    "@id": "https://orcid.org/0009-0009-5561-4441",
+    "affiliation": "THAL-KI (AI & Robotics)"
+  },
+  "keywords": [
+    "Basu Digital Bacterium Hypothesis",
+    "large language models",
+    "LLM systems",
+    "LLM agents",
+    "digital evolution",
+    "artificial life",
+    "information-borne replicators",
+    "informational autocatalysis",
+    "persistent memory",
+    "AI safety",
+    "digital bacterium",
+    "BDBH",
+    "digital organisms",
+    "self-replication",
+    "AI agents",
+    "emergence",
+    "model-to-model transmission",
+    "evolutionary computation",
+    "synthetic life",
+    "information ecology"
+  ]
+}
