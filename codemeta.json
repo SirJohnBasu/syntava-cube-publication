@@ -16,5 +16,9 @@
   "publisher": {
     "@type": "Organization",
     "name": "Zenodo"
-  }
+  },
+  "relatedLink": [
+    "https://huggingface.co/datasets/SirJohnBasu/syntava-cube-publication",
+    "https://orcid.org/0009-0009-5561-4441"
+  ]
 }
