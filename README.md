@@ -10,6 +10,12 @@
 **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441)  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+## Languages
+
+**English** · [Deutsch](README.de.md) · [中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
+
+The eight other language pages are AI-assisted explanatory summaries, not full translations of the paper. The English v1.0 files on Zenodo are authoritative.
+
 ## Abstract
 
 Large-language-model agents can be combined into persistent systems with differentiated roles, memory, coordination, tools and operational continuity. Yet aggregation, scale and commercial productivity alone do not create an organism. This publication introduces the *artificial collective organism*: a bounded digital system in which specialised components become functionally integrated such that consequential capabilities exist at the level of the whole.
@@ -27,7 +33,12 @@ The canonical English Version 1.0 is preserved on Zenodo:
 - [Word document](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.docx)
 - [Markdown edition](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md)
 
-The English edition is the sole authoritative version. Planned AI-assisted translations are not independently certified human translations.
+The English edition is the sole authoritative version. The eight translated summaries were prepared with AI assistance and checked against the English version to the best of our ability; they have not been certified by native speakers or professional translators.
+
+## Other publication pages
+
+- [Hugging Face publication page](https://huggingface.co/datasets/SirJohnBasu/syntava-cube-publication)
+- [Author’s ORCID record](https://orcid.org/0009-0009-5561-4441)
 
 ## Status and claim boundary
 
