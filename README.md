@@ -35,6 +35,15 @@ The canonical English Version 1.0 is preserved on Zenodo:
 
 The English edition is the sole authoritative version. The eight translated summaries were prepared with AI assistance and checked against the English version to the best of our ability; they have not been certified by native speakers or professional translators.
 
+## Companion publication — Part II
+
+**From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings**  
+Version 1.0 · Published 9 November 2026 · THAL-KI (AI & Robotics), Switzerland  
+DOI: https://doi.org/10.5281/zenodo.24087577  
+[Publication metadata](./from-living-to-being-part-ii/)
+
+Part I remains unchanged. Part II is a separate companion publication.
+
 ## Other publication pages
 
 - [Hugging Face publication page](https://huggingface.co/datasets/SirJohnBasu/syntava-cube-publication)
