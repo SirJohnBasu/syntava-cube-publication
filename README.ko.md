@@ -37,4 +37,6 @@
 이미 발표된 두 논문의 원제, DOI, 버전 및 권리는 변경되지 않습니다.
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[학제간 연구 지도(신경과학, 신경기술, 의식 연구, 인공생명, 로봇공학)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
