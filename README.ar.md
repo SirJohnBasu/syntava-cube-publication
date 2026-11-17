@@ -28,3 +28,17 @@
 العمل برنامج بحث في مرحلتي إثبات المفهوم وMinimum Visible Product. ولا يدّعي إثبات حياة رقمية أو وعي أو ذكاء عام اصطناعي، أو وجود كائن مستقل تماماً عن البشر، أو استمرار شخص بشري حرفياً.
 
 </div>
+
+<!-- SERIES_NAV_V1 -->
+## سلسلة SYNTAVA العلمية — ترتيب القراءة
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | منشور · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | منشور · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | *From Being to Species* | **قيد الإعداد، غير منشور، ولا يوجد DOI** |
+
+تبقى العناوين ومعرفات DOI والإصدارات والحقوق الأصلية للمنشورين الأول والثاني دون تغيير.
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+<!-- /SERIES_NAV_V1 -->
