@@ -1,8 +1,6 @@
 # SYNTAVA Scientific Research Series — Living → Being → Species
 
-**Sole scientific author:** John Kalyan Basu · **Research programme:** SYNTAVA · **One of several research partners:** THAL-KI (AI & Robotics), Switzerland · [ORCID 0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441)
-
-**Attribution and original records:** [Author and nonexclusive research-partner clarification for Publications I–III](AUTHOR_AND_RESEARCH_PARTNERS.md). The historical THAL-KI institutional publisher wording in the Part II original is preserved.
+**John Kalyan Basu** · THAL-KI (AI & Robotics), Switzerland · [ORCID 0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441)
 
 This is a coherent **scientific research series**, not a book project. Two independent conceptual preprints are already published; the third research publication is under preparation. Reading-order labels do not amend previous titles, versions, rights or DOIs.
 
@@ -29,7 +27,7 @@ Research contributions are judged against evidence, not by treating existing com
 - **Part I**: CC BY 4.0 as stated in the canonical Zenodo record.
 - **Part II**: All rights reserved as stated in its canonical eight-page PDF.
 - **Part III**: author-review manuscript; rights undecided, no DOI, no public preprint deposit.
-- **Zenodo English PDFs are authoritative**; GitHub and Hugging Face pages are explanatory and navigational. A supplementary clarification identifies THAL-KI as one of several research partners, without revising the original institutional publisher credit recorded for Part II.
+- **Zenodo English PDFs are authoritative**; GitHub and Hugging Face pages are explanatory and navigational.
 - Multilingual summaries are not certified full scientific translations.
 
 ## Related research
