@@ -12,6 +12,18 @@
 **Rights:** All rights reserved  
 **Canonical source:** Zenodo
 
+
+## SYNTAVA Research Series — Reading Order
+
+**Part I (foundation):** [Genesis Cube or Squid Cube? — A Dual-Use Framework for Artificial Collective Organisms](../SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) · [Canonical DOI](https://doi.org/10.5281/zenodo.22854142)
+
+**Part II (this companion publication):** *From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings* · [Canonical DOI](https://doi.org/10.5281/zenodo.24087577)
+
+[Back to the SYNTAVA Research Series overview](../README.md)
+
+*“Part I” is a navigation label; the original publication titles, content, versions, DOIs and rights are unchanged.*
+
+
 This conceptual companion paper develops the distinction between life-like operational functions and candidate digital beinghood. It proposes **Digital DNA**, intrinsic functional drives, identity continuity and lineage-level hypotheses as falsifiable research constructs.
 
 It does **not** claim consciousness, a verified digital organism, a digital species or experimental validation.
