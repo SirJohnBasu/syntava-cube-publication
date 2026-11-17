@@ -24,3 +24,17 @@ Los agentes basados en grandes modelos de lenguaje pueden integrarse en sistemas
 ## Estado de la investigación
 
 Este es un programa de investigación en fase de prueba de concepto y Minimum Visible Product. No afirma que se haya demostrado vida digital, conciencia o AGI, ni la existencia de un organismo totalmente independiente del ser humano o la supervivencia literal de una persona.
+
+<!-- SERIES_NAV_V1 -->
+## Serie científica SYNTAVA — orden de lectura
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Publicado · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Publicado · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | *From Being to Species* | **En preparación; no publicado; sin DOI** |
+
+Se mantienen los títulos, DOI, versiones y derechos originales de las dos primeras publicaciones.
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+<!-- /SERIES_NAV_V1 -->
