@@ -24,3 +24,17 @@ Agen berbasis model bahasa besar dapat membentuk sistem yang berkelanjutan denga
 ## Status penelitian
 
 Karya ini merupakan program riset pada tahap bukti konsep dan Minimum Visible Product. Karya ini tidak mengklaim bahwa kehidupan digital, kesadaran, AGI, organisme yang sepenuhnya mandiri dari manusia, atau kelangsungan harfiah seseorang telah terbukti.
+
+<!-- SERIES_NAV_V1 -->
+## Seri Penelitian Ilmiah SYNTAVA — urutan baca
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Terbit · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Terbit · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | *From Being to Species* | **Dalam persiapan; belum terbit; tanpa DOI** |
+
+Judul asli, DOI, versi, dan hak dari dua karya yang telah diterbitkan tidak diubah.
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+<!-- /SERIES_NAV_V1 -->
