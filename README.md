@@ -23,6 +23,8 @@
 
 [Full research-series index, rights and scientific scope](RESEARCH_SERIES.md).
 
+[Interdisciplinary research map — neuroscience, BCI, consciousness, identity, artificial life and robotics](RESEARCH_INTERFACES.md) · [Correct citations and publication status](CITE_THE_SERIES.md).
+
 *These are scientific research publications, not books. The stage labels are navigational; the original published texts, versions, DOIs and rights remain unchanged. Part I: CC BY 4.0; Part II: all rights reserved; Part III: no publication licence selected.*
 
 ## Languages
