@@ -41,4 +41,6 @@
 تبقى العناوين ومعرفات DOI والإصدارات والحقوق الأصلية للمنشورين الأول والثاني دون تغيير.
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[خريطة البحث متعددة التخصصات (علوم الأعصاب والتقنيات العصبية والوعي والحياة الاصطناعية والروبوتات)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
