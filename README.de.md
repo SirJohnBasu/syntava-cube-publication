@@ -52,4 +52,6 @@ Die Arbeit beschreibt ein Forschungsprogramm im Stadium Proof of Concept und Min
 Die Originaltitel, DOI, Versionen und Rechte der ersten beiden Arbeiten bleiben unverändert.
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[Interdisziplinäre Forschungslandkarte (Neurowissenschaften, Neurotechnologie, Bewusstseinsforschung, künstliches Leben, Robotik)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
