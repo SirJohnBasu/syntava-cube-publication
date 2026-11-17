@@ -18,6 +18,10 @@ This is a coherent **scientific research series**, not a book project. Two indep
 
 Research contributions are judged against evidence, not by treating existing component technologies or corporate roadmaps as demonstrations of the integrated whole.
 
+**Explore the cross-disciplinary scientific foundations:** [Research interfaces and selected original sources](RESEARCH_INTERFACES.md). This openly available map covers neuroscience, BCI, consciousness research, personal identity, artificial life, agents, humanoid robotics, bioengineering and technical governance. It is **not** the unpublished Part III manuscript.
+
+**Citation guidance:** [How to cite Publications I and II correctly (and why III has no DOI yet)](CITE_THE_SERIES.md).
+
 ## Rights and provenance
 
 - **Part I**: CC BY 4.0 as stated in the canonical Zenodo record.
