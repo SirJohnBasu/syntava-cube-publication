@@ -24,3 +24,17 @@
 ## 研究状況
 
 本研究は概念実証および Minimum Visible Product 段階の研究計画です。デジタル生命、意識、AGI、完全に人間から独立した生物、あるいは人間個人の文字どおりの存続が実証されたとは主張しません。
+
+<!-- SERIES_NAV_V1 -->
+## SYNTAVA 科学研究シリーズ — 閲覧順
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | 公開済み · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | 公開済み · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | *From Being to Species* | **準備中・未公開・DOI 未付与** |
+
+既刊2論文の原題、DOI、版および権利は変更しません。
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+<!-- /SERIES_NAV_V1 -->
