@@ -37,4 +37,6 @@ Karya ini merupakan program riset pada tahap bukti konsep dan Minimum Visible Pr
 Judul asli, DOI, versi, dan hak dari dua karya yang telah diterbitkan tidak diubah.
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[Peta riset lintas disiplin (ilmu saraf, neuroteknologi, kesadaran, kehidupan buatan, robotika)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
