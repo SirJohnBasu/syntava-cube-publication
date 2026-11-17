@@ -4,11 +4,7 @@
 
 **Version:** 1.0  
 **Author:** John Kalyan Basu  
-**Original author roles (v1.0):** Founder, Project SYNTAVA · President, THAL-KI · Switzerland  
-**Scientific author:** John Kalyan Basu (sole author)  
-**Research programme:** SYNTAVA  
-**Research partners:** THAL-KI (AI & Robotics), Switzerland, is one of multiple research partners; additional organisations are named only once their participation is verified.  
-**Attribution clarification:** [Author and research partners across I–III](AUTHOR_AND_RESEARCH_PARTNERS.md)  
+**Affiliation:** Founder, Project SYNTAVA · President, THAL-KI · Switzerland  
 **Published:** 20 September 2026  
 **DOI:** [10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142)  
 **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441)  
@@ -25,7 +21,7 @@
 | **II — BEING** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | **Published 9 Nov 2026** · [DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577) |
 | **III — SPECIES** | *From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages* | **In preparation, NOT published, no DOI** |
 
-[Full research-series index, rights and scientific scope](RESEARCH_SERIES.md) · [Authorship and research-partner attribution](AUTHOR_AND_RESEARCH_PARTNERS.md).
+[Full research-series index, rights and scientific scope](RESEARCH_SERIES.md).
 
 [Interdisciplinary research map — neuroscience, BCI, consciousness, identity, artificial life and robotics](RESEARCH_INTERFACES.md) · [Correct citations and publication status](CITE_THE_SERIES.md).
 
