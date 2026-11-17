@@ -10,6 +10,21 @@
 **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441)  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+
+## SYNTAVA Research Series — Start Here
+
+The series consists of **two separate, complementary publications**. Read them in this order:
+
+| Part | Original publication | Research focus |
+| --- | --- | --- |
+| **Part I** | [Genesis Cube or Squid Cube? — A Dual-Use Framework for Artificial Collective Organisms](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) | Can specialised AI agents form an integrated, persistent collective system with organism-like functions? |
+| **Part II** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | How might continuity of functions, Digital DNA and lineage relate to enduring digital identity? |
+
+**Canonical publications:** [Part I · DOI 10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · [Part II · DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577)
+
+*“Part I” is a reading-order label for the existing Genesis Cube publication, not a change to its original title. Part II is a separate companion publication. This overview changes no publication text, DOI, version or rights.*
+
+
 ## Languages
 
 **English** · [Deutsch](README.de.md) · [中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
