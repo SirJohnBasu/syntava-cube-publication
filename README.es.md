@@ -37,4 +37,6 @@ Este es un programa de investigación en fase de prueba de concepto y Minimum Vi
 Se mantienen los títulos, DOI, versiones y derechos originales de las dos primeras publicaciones.
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[Mapa de investigación interdisciplinaria (neurociencia, neurotecnología, conciencia, vida artificial y robótica)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
