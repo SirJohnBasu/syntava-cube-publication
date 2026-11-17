@@ -2,8 +2,6 @@
 
 The stages **Living → Being → Species** are navigation across **separate scientific works**, not three chapters of a book and not a replacement for original titles.
 
-**Sole author of I, II and the proposed III: John Kalyan Basu.** **Research programme: SYNTAVA.** THAL-KI (AI & Robotics), Switzerland, is **one of multiple research partners**, not a co-author or the programme's sole research partner. [Detailed author/partner clarification](AUTHOR_AND_RESEARCH_PARTNERS.md). The original Part II PDF remains historically credited to THAL-KI as institutional publisher.
-
 ## Citable works
 
 **I — Living (published, version 1.0)**  
