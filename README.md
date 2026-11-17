@@ -11,19 +11,19 @@
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
-## SYNTAVA Research Series — Start Here
+## SYNTAVA Scientific Research Series — Start Here
 
-The series consists of **two separate, complementary publications**. Read them in this order:
+**Living → Being → Species** is a single research programme with **two published papers and a third in scientific preparation**. This is not a book series.
 
-| Part | Original publication | Research focus |
+| Phase | Original publication | Publication status |
 | --- | --- | --- |
-| **Part I** | [Genesis Cube or Squid Cube? — A Dual-Use Framework for Artificial Collective Organisms](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) | Can specialised AI agents form an integrated, persistent collective system with organism-like functions? |
-| **Part II** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | How might continuity of functions, Digital DNA and lineage relate to enduring digital identity? |
+| **I — LIVING** | [Genesis Cube or Squid Cube? — A Dual-Use Framework for Artificial Collective Organisms](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) | **Published 20 Sep 2026** · [DOI 10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) |
+| **II — BEING** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | **Published 9 Nov 2026** · [DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577) |
+| **III — SPECIES** | *From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages* | **In preparation, NOT published, no DOI** |
 
-**Canonical publications:** [Part I · DOI 10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · [Part II · DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577)
+[Full research-series index, rights and scientific scope](RESEARCH_SERIES.md).
 
-*“Part I” is a reading-order label for the existing Genesis Cube publication, not a change to its original title. Part II is a separate companion publication. This overview changes no publication text, DOI, version or rights.*
-
+*These are scientific research publications, not books. The stage labels are navigational; the original published texts, versions, DOIs and rights remain unchanged. Part I: CC BY 4.0; Part II: all rights reserved; Part III: no publication licence selected.*
 
 ## Languages
 
