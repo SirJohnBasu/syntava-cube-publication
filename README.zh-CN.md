@@ -37,4 +37,6 @@
 前两篇论文的原始标题、DOI、版本及版权保持不变。
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[跨学科研究图谱（神经科学、神经技术、意识研究、人工生命与机器人）](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
