@@ -37,4 +37,6 @@
 पहले दो प्रकाशित शोधपत्रों के मूल शीर्षक, DOI, संस्करण और अधिकार अपरिवर्तित हैं।
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[अंतर्विषयक अनुसंधान मानचित्र (तंत्रिका विज्ञान, न्यूरोटेक्नोलॉजी, चेतना, कृत्रिम जीवन और रोबोटिक्स)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
