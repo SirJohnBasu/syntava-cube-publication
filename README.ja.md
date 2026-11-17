@@ -37,4 +37,6 @@
 既刊2論文の原題、DOI、版および権利は変更しません。
 
 [English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[学際的研究マップ（神経科学、神経技術、意識研究、人工生命、ロボティクス）](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
 <!-- /SERIES_NAV_V1 -->
