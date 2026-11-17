@@ -4,7 +4,11 @@
 
 **Version:** 1.0  
 **Author:** John Kalyan Basu  
-**Affiliation / Publisher:** THAL-KI (AI & Robotics), Switzerland  
+**Original institutional affiliation and publisher (published v1.0 PDF):** THAL-KI (AI & Robotics), Switzerland  
+**Scientific author:** John Kalyan Basu (sole author)  
+**Research programme:** SYNTAVA  
+**Research partners:** THAL-KI is one of multiple research partners; additional institutions will be named only following confirmation of their participation and attribution.  
+**Author's clarification:** [Attribution across Publications I–III](../AUTHOR_AND_RESEARCH_PARTNERS.md)  
 **Published:** 9 November 2026  
 **DOI:** https://doi.org/10.5281/zenodo.24087577  
 **ORCID:** https://orcid.org/0009-0009-5561-4441  
@@ -36,7 +40,7 @@ Part II is a companion to:
 *Genesis Cube or Squid Cube? A Dual-Use Framework for Artificial Collective Organisms*  
 DOI: https://doi.org/10.5281/zenodo.22854142
 
-Zenodo is the canonical source for the Part II publication and PDF.
+Zenodo is the canonical source for the Part II publication and PDF. The institutionally credited publisher in the original PDF remains part of the historical publication record; it should not be interpreted as declaring THAL-KI the programme's exclusive research partner.
 
 ## Integrity
 
