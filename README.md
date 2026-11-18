@@ -13,19 +13,19 @@
 
 ## SYNTAVA Scientific Research Series — Start Here
 
-**Living → Being → Species** is a single research programme with **two published papers and a third in scientific preparation**. This is not a book series.
+**Living → Being → Species** is a single research programme with **three independent published scientific papers**. This is not a book series.
 
 | Phase | Original publication | Publication status |
 | --- | --- | --- |
 | **I — LIVING** | [Genesis Cube or Squid Cube? — A Dual-Use Framework for Artificial Collective Organisms](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) | **Published 20 Sep 2026** · [DOI 10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) |
 | **II — BEING** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | **Published 9 Nov 2026** · [DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577) |
-| **III — SPECIES** | *From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages* | **In preparation, NOT published, no DOI** |
+| **III — SPECIES** | [From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages](from-being-to-species-part-iii/README.md) | **Published 18 Nov 2026** · [DOI 10.5281/zenodo.24334141](https://doi.org/10.5281/zenodo.24334141) |
 
 [Full research-series index, rights and scientific scope](RESEARCH_SERIES.md).
 
 [Interdisciplinary research map — neuroscience, BCI, consciousness, identity, artificial life and robotics](RESEARCH_INTERFACES.md) · [Correct citations and publication status](CITE_THE_SERIES.md).
 
-*These are scientific research publications, not books. The stage labels are navigational; the original published texts, versions, DOIs and rights remain unchanged. Part I: CC BY 4.0; Part II: all rights reserved; Part III: no publication licence selected.*
+*These are scientific research publications, not books. The stage labels are navigational; the original published texts, versions, DOIs and rights remain unchanged. Part I: CC BY 4.0; Part II: all rights reserved; Part III: all rights reserved.*
 
 ## Languages
 
@@ -60,6 +60,15 @@ DOI: https://doi.org/10.5281/zenodo.24087577
 [Publication metadata](./from-living-to-being-part-ii/)
 
 Part I remains unchanged. Part II is a separate companion publication.
+
+## Companion publication — Part III
+
+**From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages**  
+Version 1.0 · Published 18 November 2026 · THAL-KI (AI & Robotics), Switzerland  
+DOI: https://doi.org/10.5281/zenodo.24334141  
+[Publication metadata](from-being-to-species-part-iii/README.md) · [Authoritative PDF on Zenodo](https://doi.org/10.5281/zenodo.24334141)
+
+Part III examines artificial and human-derived digital lineages, human assimilation, identity continuity and embodiment. It does not claim demonstrated human consciousness transfer.
 
 ## Other publication pages
 

@@ -5,19 +5,24 @@
 **Version 1.0 · John Kalyan Basu · 20 September 2026**  
 **DOI:** [10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441) · **CC BY 4.0**
 
+<!-- SERIES_NAV_V1 -->
+## SYNTAVA-Forschungsreihe – Lesereihenfolge
 
-## SYNTAVA-Forschungsreihe – Einstieg und Lesereihenfolge
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Veröffentlicht · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Veröffentlicht · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | [From Being to Species](https://doi.org/10.5281/zenodo.24334141) | Veröffentlicht · 18 Nov 2026 · v1.0 |
 
-Die Forschungsreihe besteht aus **zwei eigenständigen, aufeinander aufbauenden Publikationen**:
+Die Originaltitel, DOI, Versionen und Rechte der ersten beiden Arbeiten bleiben unverändert.
 
-| Teil | Originalpublikation | Forschungsfrage |
-| --- | --- | --- |
-| **Teil I** | [Genesis Cube or Squid Cube? – A Dual-Use Framework for Artificial Collective Organisms](SYNTAVA_CUBE_PUBLICATION_v1.0_EN.md) | Können spezialisierte KI-Agenten ein dauerhaftes, integriertes Gesamtsystem mit organismenähnlichen Funktionen bilden? |
-| **Teil II** | [From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings](from-living-to-being-part-ii/README.md) | Wie könnten funktionale Kontinuität, Digital DNA und Abstammung mit einer dauerhaften digitalen Identität zusammenhängen? |
+**Part III:** Dies ist die dritte eigenständige wissenschaftliche Publikation. Sie untersucht künstliche und menschenabgeleitete digitale Abstammungslinien, die Assimilation des Menschen, dauerhafte Identität und Verkörperung. Eine Übertragung des menschlichen Bewusstseins ist nicht nachgewiesen. Alle Rechte vorbehalten.
 
-**Verbindliche Publikationen:** [Teil I · DOI 10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · [Teil II · DOI 10.5281/zenodo.24087577](https://doi.org/10.5281/zenodo.24087577)
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[Interdisziplinäre Forschungslandkarte (Neurowissenschaften, Neurotechnologie, Bewusstseinsforschung, künstliches Leben, Robotik)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
 
-*„Teil I“ ist eine Orientierungshilfe in der Lesereihenfolge, keine Umbenennung des veröffentlichten Originaltitels. Teil II ist eine eigenständige Begleitpublikation. Die Publikationstexte, DOIs, Versionen und Rechte bleiben unverändert.*
+<!-- /SERIES_NAV_V1 -->
+
 
 
 [English](README.md) · **Deutsch** · [中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
@@ -40,18 +45,3 @@ Große Sprachmodell-Agenten können zu dauerhaften Systemen mit Rollen, Gedächt
 
 Die Arbeit beschreibt ein Forschungsprogramm im Stadium Proof of Concept und Minimum Visible Product. Sie behauptet weder nachgewiesenes digitales Leben oder Bewusstsein noch AGI, einen vollständig menschenunabhängigen Organismus oder das Fortleben einer Person.
 
-<!-- SERIES_NAV_V1 -->
-## SYNTAVA-Forschungsreihe – Lesereihenfolge
-
-| Phase | Original scientific publication | Status |
-|---|---|---|
-| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Veröffentlicht · 20 Sep 2026 · v1.0 |
-| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Veröffentlicht · 9 Nov 2026 · v1.0 |
-| **III — SPECIES** | *From Being to Species* | **In Vorbereitung; nicht veröffentlicht; keine DOI** |
-
-Die Originaltitel, DOI, Versionen und Rechte der ersten beiden Arbeiten bleiben unverändert.
-
-[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
-[Interdisziplinäre Forschungslandkarte (Neurowissenschaften, Neurotechnologie, Bewusstseinsforschung, künstliches Leben, Robotik)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
-
-<!-- /SERIES_NAV_V1 -->

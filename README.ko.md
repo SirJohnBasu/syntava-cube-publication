@@ -5,6 +5,25 @@
 **Version 1.0 · John Kalyan Basu · 20 September 2026**  
 **DOI:** [10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441) · **CC BY 4.0**
 
+<!-- SERIES_NAV_V1 -->
+## SYNTAVA 과학 연구 시리즈 — 읽는 순서
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | 발표됨 · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | 발표됨 · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | [From Being to Species](https://doi.org/10.5281/zenodo.24334141) | 발표됨 · 18 Nov 2026 · v1.0 |
+
+이미 발표된 두 논문의 원제, DOI, 버전 및 권리는 변경되지 않습니다.
+
+**Part III:** 세 번째 독립 과학 논문은 인공 및 인간 유래 디지털 계보, 인간의 동화, 정체성의 연속성과 체화를 연구합니다. 인간 의식의 이전이 입증되었다고 주장하지 않습니다. 모든 권리 보유.
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[학제간 연구 지도(신경과학, 신경기술, 의식 연구, 인공생명, 로봇공학)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
+<!-- /SERIES_NAV_V1 -->
+
+
 [English](README.md) · [Deutsch](README.de.md) · [中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어** · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
 
 ## 요약
@@ -25,18 +44,3 @@
 
 이 연구는 개념 증명 및 Minimum Visible Product 단계의 연구 프로그램입니다. 디지털 생명, 의식, AGI, 완전히 인간에게서 독립적인 유기체 또는 인간 개인의 문자 그대로의 생존이 입증되었다고 주장하지 않습니다.
 
-<!-- SERIES_NAV_V1 -->
-## SYNTAVA 과학 연구 시리즈 — 읽는 순서
-
-| Phase | Original scientific publication | Status |
-|---|---|---|
-| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | 발표됨 · 20 Sep 2026 · v1.0 |
-| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | 발표됨 · 9 Nov 2026 · v1.0 |
-| **III — SPECIES** | *From Being to Species* | **준비 중·미발표·DOI 없음** |
-
-이미 발표된 두 논문의 원제, DOI, 버전 및 권리는 변경되지 않습니다.
-
-[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
-[학제간 연구 지도(신경과학, 신경기술, 의식 연구, 인공생명, 로봇공학)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
-
-<!-- /SERIES_NAV_V1 -->

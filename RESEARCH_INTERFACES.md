@@ -3,7 +3,7 @@
 **Living → Being → Species** · International scientific interface map  
 John Kalyan Basu · THAL-KI (AI & Robotics), Switzerland · [Research-series navigation](RESEARCH_SERIES.md)
 
-> **Publication status (17 November 2026):** Publications I and II are published conceptual preprints; Publication III is **in preparation, not published and has no DOI**. This is a research-orientation page, not Publication III, an announcement of a demonstrated digital species, or evidence of a research partnership.
+> **Publication status (18 November 2026):** Publications I, II and III are published conceptual preprints. Part III: [10.5281/zenodo.24334141](https://doi.org/10.5281/zenodo.24334141). This is a research-orientation page, not the Part III manuscript, an announcement of a demonstrated digital species, or evidence of a research partnership.
 
 ## Why this map exists
 
@@ -25,7 +25,7 @@ The programme tests whether existing and emerging technical capabilities can be 
 | **8. Bioengineering and neuromorphic substrates** | [Brain organoid reservoir computing (Nature Electronics, 2023)](https://www.nature.com/articles/s41928-023-01069-w); [Neuromorphic Twins (Nature Communications, 2026)](https://www.nature.com/articles/s41467-026-68923-1) | Alternative neural modelling and engineered substrates | Experimental neural computation is not human brain emulation |
 | **9. Compute, provenance, ethics and governance** | [UNESCO neurotechnology recommendation (2025)](https://www.unesco.org/en/articles/ethics-neurotechnology-unesco-adopts-first-global-standard-cutting-edge-technology); [UNESCO AI ethics recommendation (2021)](https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence) | Operational continuity, storage integrity, access controls, consent, safety and independent audit | Legal, ethical and systems safeguards remain distinct from intelligence or identity claims |
 
-The examples are **illustrative, not exhaustive**. Publication III's complete bibliography and its detailed source-to-interface comparison remain part of the unpublished author-review manuscript. Journal articles, preprints, roadmaps and company demonstrations carry distinct levels of evidence; citation does not imply collaboration.
+The examples are **illustrative, not exhaustive**. Publication III's complete bibliography and its detailed source-to-interface comparison are available in the [published Part III manuscript](https://doi.org/10.5281/zenodo.24334141). Journal articles, preprints, roadmaps and company demonstrations carry distinct levels of evidence; citation does not imply collaboration.
 
 ## Interfaces under investigation
 
@@ -45,7 +45,7 @@ A single successful component test must **not** be substituted for an integrativ
 
 - **I — Living:** [*Genesis Cube or Squid Cube? A Dual-Use Framework for Artificial Collective Organisms* (2026)](https://doi.org/10.5281/zenodo.22854142).
 - **II — Being:** [*From Living to Being – Part II: Digital DNA, Identity and the Emergence of Artificial Collective Beings* (2026)](https://doi.org/10.5281/zenodo.24087577).
-- **III — Species:** *From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages* — **under scientific preparation; do not cite as a published work**.
+- **III — Species:** [*From Being to Species: An Interdisciplinary Systems-Integration Framework for Artificial and Human-Derived Digital Lineages* (2026)](https://doi.org/10.5281/zenodo.24334141).
 
 To refer to the research programme, cite the specific **published papers** using their canonical DOI records. This public map is neither the complete manuscript of Publication III nor a substitute for those papers.
 

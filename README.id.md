@@ -5,6 +5,25 @@
 **Version 1.0 · John Kalyan Basu · 20 September 2026**  
 **DOI:** [10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441) · **CC BY 4.0**
 
+<!-- SERIES_NAV_V1 -->
+## Seri Penelitian Ilmiah SYNTAVA — urutan baca
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Terbit · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Terbit · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | [From Being to Species](https://doi.org/10.5281/zenodo.24334141) | Terbit · 18 Nov 2026 · v1.0 |
+
+Judul asli, DOI, versi, dan hak dari dua karya yang telah diterbitkan tidak diubah.
+
+**Part III:** Publikasi ilmiah mandiri ketiga mengkaji garis keturunan digital buatan dan yang berasal dari manusia, asimilasi manusia, kesinambungan identitas, serta perwujudan fisik. Tidak diklaim bahwa transfer kesadaran manusia telah terbukti. Hak cipta dilindungi sepenuhnya.
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[Peta riset lintas disiplin (ilmu saraf, neuroteknologi, kesadaran, kehidupan buatan, robotika)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
+<!-- /SERIES_NAV_V1 -->
+
+
 [English](README.md) · [Deutsch](README.de.md) · [中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · **Bahasa Indonesia**
 
 ## Ringkasan
@@ -25,18 +44,3 @@ Agen berbasis model bahasa besar dapat membentuk sistem yang berkelanjutan denga
 
 Karya ini merupakan program riset pada tahap bukti konsep dan Minimum Visible Product. Karya ini tidak mengklaim bahwa kehidupan digital, kesadaran, AGI, organisme yang sepenuhnya mandiri dari manusia, atau kelangsungan harfiah seseorang telah terbukti.
 
-<!-- SERIES_NAV_V1 -->
-## Seri Penelitian Ilmiah SYNTAVA — urutan baca
-
-| Phase | Original scientific publication | Status |
-|---|---|---|
-| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | Terbit · 20 Sep 2026 · v1.0 |
-| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | Terbit · 9 Nov 2026 · v1.0 |
-| **III — SPECIES** | *From Being to Species* | **Dalam persiapan; belum terbit; tanpa DOI** |
-
-Judul asli, DOI, versi, dan hak dari dua karya yang telah diterbitkan tidak diubah.
-
-[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
-[Peta riset lintas disiplin (ilmu saraf, neuroteknologi, kesadaran, kehidupan buatan, robotika)](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
-
-<!-- /SERIES_NAV_V1 -->

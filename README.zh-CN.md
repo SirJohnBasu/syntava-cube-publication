@@ -5,6 +5,25 @@
 **Version 1.0 · John Kalyan Basu · 20 September 2026**  
 **DOI:** [10.5281/zenodo.22854142](https://doi.org/10.5281/zenodo.22854142) · **ORCID:** [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441) · **CC BY 4.0**
 
+<!-- SERIES_NAV_V1 -->
+## SYNTAVA 科学研究系列 — 阅读顺序
+
+| Phase | Original scientific publication | Status |
+|---|---|---|
+| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | 已发表 · 20 Sep 2026 · v1.0 |
+| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | 已发表 · 9 Nov 2026 · v1.0 |
+| **III — SPECIES** | [From Being to Species](https://doi.org/10.5281/zenodo.24334141) | 已发表 · 18 Nov 2026 · v1.0 |
+
+前两篇论文的原始标题、DOI、版本及版权保持不变。
+
+**Part III:** 第三篇独立科学论文研究人工来源和人类来源的数字谱系、人类同化、身份连续性及具身化。不声称已证实人类意识转移。 保留所有权利。
+
+[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
+[跨学科研究图谱（神经科学、神经技术、意识研究、人工生命与机器人）](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
+
+<!-- /SERIES_NAV_V1 -->
+
+
 [English](README.md) · [Deutsch](README.de.md) · **中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
 
 ## 摘要
@@ -25,18 +44,3 @@
 
 本研究处于概念验证及 Minimum Visible Product 阶段。它不声称已证实数字生命、意识或通用人工智能，也不声称已经形成完全不依赖人类的有机体，或实现人的字面意义上的延续。
 
-<!-- SERIES_NAV_V1 -->
-## SYNTAVA 科学研究系列 — 阅读顺序
-
-| Phase | Original scientific publication | Status |
-|---|---|---|
-| **I — LIVING** | [Genesis Cube or Squid Cube?](https://doi.org/10.5281/zenodo.22854142) | 已发表 · 20 Sep 2026 · v1.0 |
-| **II — BEING** | [From Living to Being — Part II](https://doi.org/10.5281/zenodo.24087577) | 已发表 · 9 Nov 2026 · v1.0 |
-| **III — SPECIES** | *From Being to Species* | **筹备中；尚未发表；无 DOI** |
-
-前两篇论文的原始标题、DOI、版本及版权保持不变。
-
-[English canonical research-series index](RESEARCH_SERIES.md). The original English scientific papers are authoritative; this section is navigation, not a complete scientific translation.
-[跨学科研究图谱（神经科学、神经技术、意识研究、人工生命与机器人）](RESEARCH_INTERFACES.md) · [Published work citation guidance](CITE_THE_SERIES.md)
-
-<!-- /SERIES_NAV_V1 -->
